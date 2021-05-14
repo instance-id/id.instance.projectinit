@@ -1,0 +1,19 @@
+{
+	"githubUrl": "https://github.com/instance-id/id.instance.projectinit",
+	"name": "id.instance.projectinit",
+	"displayName": "ProjectInit",
+	"repositoryName": "id.instance.projectinit",
+	"version": "0.1.0",
+	"description": "Project initialization script to define specific editor settings (Scripting backend, API level, default Build Target, Incremental GC, etc)",
+	"type": "library",
+	"unity": "2019.4",
+	"unityRelease": "20f1",
+	"keywords": ["Setup", "Automation", "Editor","Automated", "Settings"],
+	"author": {
+		"name": "instance.id",
+		"email": "dan@instance.id",
+		"url": "https://instance.id",
+		"twitter": "instance_id",
+		"github": "instance-id"
+	}
+}
